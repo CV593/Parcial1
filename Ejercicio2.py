@@ -6,4 +6,5 @@ def inverso_palabra(palabra):
 
 palabra = "Python"
 
-print(inverso_palabra(palabra))
+print(f"Palabra Orginal {palabra}")
+print(f"Palabra Invertida {inverso_palabra(palabra)}")
